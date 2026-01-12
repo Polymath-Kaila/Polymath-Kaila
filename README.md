@@ -53,37 +53,26 @@ I **teach and tutor Python**, helping learners:
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Polymath-Kaila&show_icons=true&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Polymath-Kaila&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Polymath-Kaila&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Polymath-Kaila&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Polymath-Kaila&theme=transparent&hide_border=true"
+    height="165"
   />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=Polymath-Kaila&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=Polymath-Kaila&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Polymath-Kaila&hide_border=true"
-    alt="GitHub Streak"
-  />
-</picture>
+</p>
 
 ---
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath-Kaila&layout=compact&theme=transparent&hide_border=true"
+    height="150"
+  />
+</p>
+
 
 ## 📚 Knowledge & Projects
 - **Python Backend Developer Roadmap**  
