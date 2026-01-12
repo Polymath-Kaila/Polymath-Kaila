@@ -52,6 +52,7 @@ I **teach and tutor Python**, helping learners:
 ---
 
 ## 📊 GitHub Stats
+> 📊 GitHub statistics may take a moment to load due to GitHub rate limits.
 
 <p align="center">
   <img
