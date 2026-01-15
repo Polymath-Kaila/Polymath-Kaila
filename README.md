@@ -11,7 +11,7 @@ Python Backend Specialist • Computer Science • System Thinker • Python Tut
 
 ---
 
-## 🧠 About Me
+##  About Me
 I’m **Kaila**, a polymath backend developer with a strong **computer science foundation** and a deep specialization in **Python backend engineering**.
 
 I design and build **scalable backend systems**, write clean and Pythonic code, and **teach Python** with a focus on fundamentals, clarity, and real-world backend thinking.
@@ -28,7 +28,7 @@ I design and build **scalable backend systems**, write clean and Pythonic code, 
 
 ---
 
-## 🧑‍🏫 Teaching & Mentorship
+##  Teaching & Mentorship
 I **teach and tutor Python**, helping learners:
 - Build strong fundamentals
 - Think like backend engineers
@@ -37,7 +37,7 @@ I **teach and tutor Python**, helping learners:
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Languages
 <p>
