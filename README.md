@@ -41,7 +41,7 @@ I **teach and tutor Python**, helping learners:
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,js," />
 </p>
 
 ### Backend & Tools
