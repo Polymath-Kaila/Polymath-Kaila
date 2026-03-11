@@ -1,34 +1,33 @@
-<h1 align="center">Polymath Kaila</h1>
+<h1 align="center">Kaila</h1>
 <h3 align="center">
-Python Backend Specialist • Computer Science • System Thinker • Python Tutor
+Python & Golang Backend Specialist • Systems Arch. & Design
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Specialist-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-Engineering-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Teaching-Python-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distributed-Systems-2ea44f?style=for-the-badge"/>
 </p>
 
 ---
 
 ##  About Me
-I’m **Kaila**, a polymath backend developer with a strong **computer science foundation** and a deep specialization in **Python backend engineering**.
+I’m **Kaila**,software developer with a deep specialization in ** backend engineering**.
 
-I design and build **scalable backend systems**, write clean and Pythonic code, and **teach Python** with a focus on fundamentals, clarity, and real-world backend thinking.
-
----
-
-## ⚙️ Core Specialization : Python Backend
-- Advanced Python & Pythonic patterns
-- Django & Django REST Framework
-- REST APIs, GraphQL authentication & security
-- SQL, PostgreSQL & ORM internals
-- Backend architecture & system design
-- Testing, debugging & production readiness
+I design and build **scalable backend systems**, write clean code and **teach systems arch. & design** with a focus on fundamentals, clarity, and real-world backend thinking.
 
 ---
 
-##  Teaching & Mentorship
+## ⚙️ Core Specialization : Go & Python Backend Systems
+- Idiomatic Go concurrency (goroutines,channels,context patterns)
+-  Advanced Python backend (Pythonic architecture, performance)
+- API design - REST,GraphQL,authentication,security
+- Backend frameworks - Django, FastAPI
+- Database engineering - PostgreSQL,SQL optimization, ORM internals
+- Scalable system design - microservices, distributed systems
+- Production engineering - testing, observability, debugging, reliability
+---
+
+##  Teaching 
 I **teach and tutor Python**, helping learners:
 - Build strong fundamentals
 - Think like backend engineers
@@ -41,12 +40,12 @@ I **teach and tutor Python**, helping learners:
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js," />
+  <img src="https://skillicons.dev/icons?i=python,go," />
 </p>
 
 ### Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,postgresql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=django,gin,postgresql,docker,git,linux" />
 </p>
 
 ---
@@ -75,32 +74,16 @@ I **teach and tutor Python**, helping learners:
 </p>
 
 
-## 📚 Knowledge & Projects
-- **Python Backend Developer Roadmap**  
-  Notes, guides, and code snippets for backend mastery
-
-- **Pythonic Engineering Notes**  
-  Writing clean, idiomatic, production-grade Python
-
----
 
 ## 🧩 Engineering Philosophy
 > *Frameworks change. Fundamentals compound.*
-
-I focus on:
-- Strong CS fundamentals
-- Backend-first thinking
-- Maintainability over hype
-- Systems, data, and scalability
-
 ---
 
 ## 🌱 Current Focus
 - Advanced backend system design
-- Scalable Python architectures
-- Teaching Python effectively
+- Scalable Python architecture
 
 ---
 
 ## 📫 Connect
-- GitHub: **@Polymath-Kaila**
+- GitHub: **Polymath-Kaila**
