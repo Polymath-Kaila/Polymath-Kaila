@@ -45,7 +45,7 @@ I **teach and tutor Python**, helping learners:
 
 ### Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=django,postgresql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgresql,docker,git,linux" />
 </p>
 
 ---
