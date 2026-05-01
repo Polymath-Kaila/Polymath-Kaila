@@ -11,7 +11,7 @@ Python & Golang Backend Specialist • Systems Arch. & Design
 ---
 
 ##  About Me
-I’m **Kaila**,software developer with a deep specialization in ** backend engineering**.
+I’m **Kaila**, software developer with a deep specialization in ** backend engineering**.
 
 I design and build **scalable backend systems**, write clean code and **teach systems arch. & design** with a focus on fundamentals, clarity, and real-world backend thinking.
 
