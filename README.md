@@ -1,89 +1,46 @@
-<h1 align="center">Kaila</h1>
+<h1 align="center">grafite</h1>
+
 <h3 align="center">
-Python & Golang Backend Specialist • Systems Arch. & Design
+C • C++ • Linux • Offensive Security
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Engineering-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distributed-Systems-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Low--Level-Systems-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Offensive-Security-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Internals-yellow?style=for-the-badge"/>
 </p>
 
 ---
 
-##  About Me
-I’m **Kaila**, software developer with a deep specialization in backend engineering.
+## About
 
-I design and build **scalable backend systems**, write clean code and **teach systems arch. & design** with a focus on fundamentals, clarity, and real-world backend thinking.
+Systems programmer focused on **C, C++, Linux internals, reverse engineering, vulnerability research, and offensive security**.
 
----
-
-## ⚙️ Core Specialization : Go & Python Backend Systems
-- Idiomatic Go concurrency (goroutines,channels,context patterns)
--  Advanced Python backend (Pythonic architecture, performance)
-- API design - REST,GraphQL,authentication,security
-- Backend frameworks - Django, FastAPI
-- Database engineering - PostgreSQL,SQL optimization, ORM internals
-- Scalable system design - microservices, distributed systems
-- Production engineering - testing, observability, debugging, reliability
----
-
-##  Teaching 
-I **teach and tutor Python**, helping learners:
-- Build strong fundamentals
-- Think like backend engineers
-- Write clean, maintainable code
-- Move from tutorials to real systems
+I study how software works beneath the abstractions: memory, processes, binaries, networks, compilers, debugging, and exploitation in authorized environments.
 
 ---
 
-##  Technical Stack
+## Core Focus
 
-### Languages
+- C and modern C++
+- Linux systems programming
+- Memory and process internals
+- Assembly and binary analysis
+- Reverse engineering
+- Vulnerability research
+- Network security
+- Offensive security labs
+
+---
+
+## Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go," />
-</p>
-
-### Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgresql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,docker,vim" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-> 📊 GitHub statistics may take a moment to load due to GitHub rate limits.
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Polymath-Kaila&show_icons=true&theme=transparent&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Polymath-Kaila&theme=transparent&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath-Kaila&layout=compact&theme=transparent&hide_border=true"
-    height="150"
-  />
-</p>
-
-
-
-## 🧩 Engineering Philosophy
-> *Frameworks change. Fundamentals compound.*
----
-
-## 🌱 Current Focus
-- Advanced backend system design
-- Scalable Python architecture
-
----
-
-## 📫 Connect
-- GitHub: **Polymath-Kaila**
+## GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Polymath-Kaila&show_icons=true&theme=transparent&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Polymath-Kaila&theme=transparent&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath-Kaila&layout=compact&theme=transparent&hide_border=true" height="150" /> </p>
+<p align="center"> <b>grafite</b> </p> ```
